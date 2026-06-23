@@ -8,7 +8,7 @@ hex values to drop into the **CONFIG** block of `og-advanced.sh`.
 
 ```
 I'm generating 1200x630 social preview images with the og-advanced.sh script
-from https://github.com/<...>/social_preview. The layout has:
+from https://github.com/maxstridde/social_preview. The layout has:
 
 - a soft background gradient (BG_TOP -> BG_BOT)
 - three decorative shapes behind a framed photo:
