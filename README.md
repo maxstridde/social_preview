@@ -21,6 +21,7 @@ Both inputs live in [`assets/`](assets/). Outputs are in
 
 |              | Landscape input                              | Portrait input                              |
 | ------------ | -------------------------------------------- | ------------------------------------------- |
+| **Raw**      | ![](assets/wide.jpg)                         | ![](assets/tall.jpg)                        |
 | **Simple**   | ![](assets/examples/simple-wide.jpg)         | ![](assets/examples/simple-tall.jpg)        |
 | **Advanced** | ![](assets/examples/advanced-wide.jpg)       | ![](assets/examples/advanced-tall.jpg)      |
 
