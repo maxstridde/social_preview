@@ -27,6 +27,17 @@ Both inputs live in [`assets/`](assets/). Outputs are in
 
 ---
 
+## Used by
+
+Projects that adapted these scripts for their own social previews. Add yours via PR.
+
+| Project | Description | Script | Preview |
+| ------- | ----------- | ------ | ------- |
+| [mail-builder](https://github.com/maxstridde/mail-builder) | Free, browser-based HTML newsletter builder | `og-advanced.sh` (adapted) | ![mail-builder preview](https://raw.githubusercontent.com/maxstridde/mail-builder/main/social-preview/og.png) |
+| [asta-mail-builder](https://github.com/maxstridde/asta-mail-builder) | Newsletter email builder for AStA Uni Bonn | `og-advanced.sh` (adapted) | ![asta-mail-builder preview](https://raw.githubusercontent.com/maxstridde/asta-mail-builder/main/social-preview/asta-og.png) |
+
+---
+
 ## Requirements
 
 - **ImageMagick 7** (the `magick` command).
